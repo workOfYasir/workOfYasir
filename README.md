@@ -30,12 +30,12 @@ Skills: PHP / Laravel / REACT / CodeIgniter / JS / HTML / CSS / Jquery / Mysqli 
 Note: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github.
 
 <table >
- <tr style="border:1px solid #fff !important"> 
-  <td style="border:1px solid #fff !important">
+ <tr> 
+  <td style="border:none">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workOfYasir&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
   
- </td> <td style="border:1px solid #fff !important">
+ </td> <td style="border:none">
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=workOfYasir&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=light)
  
